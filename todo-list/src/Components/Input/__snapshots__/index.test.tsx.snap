@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Input /> Input 컴포넌트가 잘 렌더링되는지 확인 1`] = `
+.c0 {
+  font-size: 16px;
+  padding: 10px 10px;
+  border-radius: 8px;
+  border: 1px solid #bdbdbd;
+  outline: none;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+<div>
+  <input
+    class="c0"
+    value="default value"
+  />
+</div>
+`;
